@@ -2,19 +2,12 @@
 
 ## QUESTION:
 Aliens scan DNA numbers:
-
 If the DNA number is divisible by 2 and ends in 4, they accept it.
-
 If the DNA number is divisible by 2 but ends in anything else, it’s a suspect.
-
 If the DNA is odd, they reject it.
-
 The program will print one of the following statements based on the input:
-
 Accepted
-
 Suspect
-
 Rejected
 
 
@@ -79,3 +72,4 @@ public class Main{
 The program was executed successfully.
 When the input DNA number 64 was entered, the program checked the conditions and correctly displayed the output “Accepted”.
 Thus, the program works as expected and produces the correct result based on the given rules.
+
