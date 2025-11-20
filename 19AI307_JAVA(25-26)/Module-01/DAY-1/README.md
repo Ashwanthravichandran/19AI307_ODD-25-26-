@@ -9,17 +9,11 @@ To write a Java program that prints the message "Hey, my first java program!" us
 
 ## ALGORITHM :
 1.	Start the program.
-
 2. Create a public class named Main (or any valid class name).
-
 3. Write the main() method which acts as the entry point of the Java program.
-
 4. Inside the main() method, use the System.out.println() statement.
-
 5. Pass the message "Hey, my first java program!" as a string to the print statement.
-
 6. Save the program with the class name (e.g., Main.java).
-
 7. Compile and run the program to display the output.
 
 
@@ -58,3 +52,4 @@ public class Main{
 ## RESULT:
 The Java program successfully prints the message:
 Hey, my first java program!
+
