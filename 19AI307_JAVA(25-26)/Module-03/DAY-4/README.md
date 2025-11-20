@@ -10,14 +10,6 @@ SunBot: Predicts "HOT" if temperature > 30, else "MODERATE".
 
 RainBot: Predicts "COLD" if temperature < 20, else "WARM".
 
-Input:
-
-temperature
-botType (1 for SunBot, 2 for RainBot)Output:
-Prediction as a string.
-
-
-
 
 ## AIM:
 
@@ -104,3 +96,4 @@ public class Main {
 
 ## RESULT:
 Thus, the program successfully creates two weather-prediction bots using an interface, accepts user input, and outputs the correct weather prediction based on the selected bot.
+
